@@ -1,0 +1,31 @@
+Section 1: General Awareness
+Web Development Basics:
+
+1- What is web development, and why is it essential in the context of the internet?
+	Web Development is all about creating and managing websites.
+HTML Knowledge:
+2- Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+	Yes, HTML is a markup language used to define the content of a webpage, I don't know exactly what the 	acronym HTML stands for.
+
+
+Section 2: Familiarity with CSS
+CSS Understanding:
+3- Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+	Yes, CSS stands for Cascading Style Sheet and it is used for styling defining the layout of the content on 	web page. 
+	
+
+Section 3: JavaScript and Its Importance
+Introduction to JavaScript:
+4-Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+	Yes and no, I'm still very new to JS but I know in web dev it is used for adding interactivity and 	functionality to websites as well work on the backend with node.js and maybe other ways I don't know of, 	but again still very new to it.
+
+	
+Section 4: Introduction to React and Node.js
+React and Node.js Awareness:
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+	Yes and no again, I know React is a JS library used for Frontend stuff and Node.js had something to do 	with backend, I never delved into the backend.
+
+Section 5: Bonus Question
+Learning Intentions:
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+	I'm really hoping to build a stable career in web development and potentially other areas of programming 	in the 	future like game design, I enjoy the beauty of making something functional and creative t the same 	time, I also love the possibility of working remotely.
